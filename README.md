@@ -1,6 +1,7 @@
 Análise de Cancelamento de Clientes em Plataforma de Streaming<br/>
 
-🎬 Objetivo: Identificar padrões e fatores que influenciam o cancelamento de assinaturas em uma plataforma de streaming, oferecendo insights estratégicos para retenção de clientes.
+🎬 Objetivo:<br/> 
+Identificar padrões e fatores que influenciam o cancelamento de assinaturas em uma plataforma de streaming, oferecendo insights estratégicos para retenção de clientes.
 
 📊 Abordagem:<br/>
 Coleta e limpeza de dados históricos de assinantes.<br/>
@@ -19,7 +20,7 @@ Numpy<br/>
 Pandas<br/>
 PlotLy<br/>
 
-🚀 Como Executar<br/>
+🚀 Como Executar:<br/>
 1- Clone este repositório:
 "https://github.com/Becca002/Insight-Clientes---Plataforma-de-Streaming"
 
