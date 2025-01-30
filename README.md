@@ -19,7 +19,7 @@ Numpy<br/>
 Pandas<br/>
 PlotLy<br/>
 
-🚀 Como Executar
+🚀 Como Executar<br/>
 1- Clone este repositório:
 "https://github.com/Becca002/Insight-Clientes---Plataforma-de-Streaming"
 
